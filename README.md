@@ -9,9 +9,9 @@ their accounts with an otp, get list of food orders, and admin can create or add
 - Clone the repository:
 
 - Bash
-git clone https://github.com/your-username/foodie-express-api.git
+git clone https://github.com/your-username/truemind-foodApp.git
 
-- cd truemind foodApp
+- cd truemind-foodApp
 
 ## Install dependencies:
 
