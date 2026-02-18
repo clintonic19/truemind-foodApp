@@ -14,6 +14,8 @@ git clone https://github.com/your-username/truemind-foodApp.git
 - cd truemind-foodApp
 
 ## Install dependencies:
+- express
+- node
 
 # Bash
 - npm install
